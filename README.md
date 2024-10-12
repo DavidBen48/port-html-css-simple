@@ -1,5 +1,3 @@
-Claro! Aqui está um modelo de README.md que você pode usar para o seu portfólio pessoal:
-
 ```markdown
 # Portfólio Pessoal
 
@@ -7,7 +5,7 @@ Este é o meu portfólio pessoal, criado de forma simples e minimalista usando a
 
 ## Demonstração
 
-Você pode visualizar o portfólio ao vivo [neste link](link_da_hospedagem) (substitua pelo link real se estiver hospedado).
+Você pode visualizar o portfólio ao vivo [neste link](https://davidben48.github.io/port-html-css-simple/) (substitua pelo link real se estiver hospedado).
 
 ## Tecnologias Utilizadas
 
